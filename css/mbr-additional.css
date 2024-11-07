@@ -1113,8 +1113,8 @@ img {
   margin: 8px 0;
 }
 .cid-u14CsvRpyO .navbar .navbar-logo img {
-  min-width: 250px;
-  min-height: 100px;
+  min-width: 350px;
+  min-height: 150px;
   object-fit: contain;
   border-radius: .3rem !important;
 }
@@ -1496,12 +1496,14 @@ img {
   }
 }
 .cid-u14CBbMONB .image-wrapper .image-wrap img {
-  width: 100%;
-  height: 100%;
+  width: 120%;
+  height: 120%;
   object-fit: cover;
   border: 7px solid #1c1c1c;
   border-radius: 3rem !important;
 }
+
+
 .cid-u14CBbMONB .mbr-section-title {
   color: #ffffff;
 }
