@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="images/logo.png" rel="shortcut icon" type="image/x-icon">
+
+    <title>KUNAL DURUDKAR</title>
+    <link href="css/mobirise2.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-grid.min.css" rel="stylesheet">
+    <link href="css/bootstrap-reboot.min.css" rel="stylesheet">
+    <link href="css/jarallax.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/style_1.css" rel="stylesheet">
+    <link href="css/recaptcha.css" rel="stylesheet">
+    <link as="style"
+          href="https://fonts.googleapis.com/css?family=Rethink+Sans:400,500,600,700,800,400i,500i,600i,700i,800i&amp;display=swap"
+          onload="this.onload=null;this.rel='stylesheet'" rel="preload">
+    <noscript>
+        <link href="https://fonts.googleapis.com/css?family=Rethink+Sans:400,500,600,700,800,400i,500i,600i,700i,800i&display=swap"
+              rel="stylesheet">
+    </noscript>
+    <link as="style" href="assets/mobirise/css/mbr-additional.css" rel="preload">
+    <link href="css/mbr-additional.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<body>
+
+<section class="contact-bar">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col text-center">
+                <p>Contact us at +91 7020550988 | kunaldurudkar@gmail.com</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="menu menu01 devicem5 cid-u14CsvRpyO" data-bs-version="5.1" id="menu01-0" once="menu">
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="menu_box container-fluid">
+            <div class="navbar-brand d-flex align-items-center">
+                <span class="navbar-logo">
+                    <a href="../index.html">
+                        <img alt="Mobirise" class="logo-img" src="images/logo1.png">
+                    </a>
+                </span>
+
+                <button aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"
+                        class="navbar-toggler"
+                        data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse"
+                        data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+                    <div class="hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+                    <li class="nav-item">
+                        <a class="nav-link link text-info display-7" href="#">
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link text-info display-7" href="#article04-8">
+                            About
+                        </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link link text-info display-7" href="#form01-c">Contacts</a></li>
+                </ul>
+                <div class="mbr-section-btn-main" role="tablist">
+                    <a class="btn btn-info-outline display-4" href="#pricing01-f">
+                        Contact Us now
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</section>
+<style>
+    /* Responsive Logo */
+.logo-img {
+    max-width: 150px; /* Adjust as needed */
+    width: 100%;
+    height: auto;
+}
+
+/* Contact Bar */
+.contact-bar {
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 5px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    transition: top 0.3s;
+}
+
+/* Navbar Styles */
+.navbar {
+    top: 40px; /* Adjusted to align below the contact bar */
+    transition: top 0.3s;
+}
+
+/* Hide Contact Bar on Scroll */
+.scroll-hide {
+    top: -40px;
+}
+
+/* Sticky Navbar */
+.navbar-fixed-top {
+    position: sticky;
+    top: 0;
+    z-index: 1010;
+}
+</style>
+<script>
+    // JavaScript to hide contact bar on scroll
+let lastScrollY = window.scrollY;
+window.addEventListener("scroll", () => {
+    const contactBar = document.querySelector(".contact-bar");
+    const navbar = document.querySelector(".navbar");
+
+    if (window.scrollY > lastScrollY) {
+        contactBar.classList.add("scroll-hide");
+        navbar.style.top = "0";
+    } else {
+        contactBar.classList.remove("scroll-hide");
+        navbar.style.top = "40px";
+    }
+    lastScrollY = window.scrollY;
+});
+
+</script>
+
+<section class="header02 devicem5 cid-u14CBbMONB mbr-fullscreen" data-bs-version="5.1" id="header02-2">
+
+
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(28, 28, 28);"></div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-4 card">
+                <div class="content-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Mobiles Repair Service
+                    </h2>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Welcome to the ADINATH Mobile Repair Service! We have experienced service department ready to
+                        handle all of your repair tasks.
+                    </p>
+                    <div class="mbr-section-btn">
+                        <a class="btn btn-info display-4" href="#">
+                            <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>
+                            Himanshu Tated
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4 card">
+                <div class="image-wrapper">
+                    <div class="image-wrap">
+                        <img alt="Mobirise" src="images/ban1.png">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4"></div>
+        </div>
+    </div>
+</section>
+
+<section class="article04 devicem5 cid-u14CJJQIRh" data-bs-version="5.1" id="article04-8">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-4">
+                <div class="image-wrapper">
+                    <div class="image-wrap">
+                        <img alt="Mobirise" src="images/bg7.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-8">
+                <div class="content-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Tons of Experience
+                    </h2>
+                    <p class="mbr-desc mbr-fonts-style display-5">
+                        ADINATH Mobile Repair Service has been repairing mobile devices for over 3 years.
+                    </p>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Accidents happen, and it’s our job to fix them when it comes to damaging your mobile device.
+                        It’s never been easier to render your device useless after dropping it. Our trained technicians
+                        will diagnose and repair your device within 24 hours.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features04 devicem5 cid-u14CGtsOc0" data-bs-version="5.1" id="features04-5">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-5">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Key advantages to choose us
+                    </h2>
+                </div>
+            </div>
+            <div class="col-12 col-lg-5">
+                <div class="items-wrapper">
+                    <div class="item features-without-image item-mb">
+                        <div class="item-wrapper">
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    No fix no fee
+                                </h4>
+                                <p class="card-text mbr-fonts-style display-7">
+                                    We aim to provide honest service to our customers. So if you don't get proper repair
+                                    service, you won't be charged.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item features-without-image item-mb">
+                        <div class="item-wrapper">
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    Quick repair process
+                                </h4>
+                                <p class="card-text mbr-fonts-style display-7">
+                                    We guarantee a quick repair service regardless of how complex the task is.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item features-without-image item-mb">
+                        <div class="item-wrapper">
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    30 days of warranty
+                                </h4>
+                                <p class="card-text mbr-fonts-style display-7">
+                                    All our repairs come with a 30-day limited warranty on the service we provide. You
+                                    can always expect high reliability from us.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features06 devicem5 cid-u14CHzD2Vz" data-bs-version="5.1" id="features06-6">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-4 card">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Team
+                    </h2>
+                </div>
+            </div>
+            <div class="col-12 col-lg-8 card">
+                <div class="content-wrapper">
+                    <p class="mbr-text mbr-fonts-style display-5">
+                        The development of mobile devices involves a diverse range of professionals with various
+                        expertise. Collaboration among these professionals is essential.
+                    </p>
+                    <div class="items-wrapper">
+                        <div class="item features-image">
+                            <div class="item-wrapper">
+                                <div class="item-img">
+                                    <img alt="Mobirise" src="images/kd1.jpg">
+                                </div>
+                                <div class="item-content">
+                                    <p class="card-name mbr-fonts-style display-5">
+                                        Kunal Durudkar
+                                    </p>
+                                    <p class="card-role mbr-fonts-style display-7">
+                                        Software Engineer
+                                    </p>
+                                    <div class="social-wrapper">
+                                        <div class="social-wrap">
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-facebook"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-youtube"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-instagram"></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item features-image">
+                            <div class="item-wrapper">
+                                <div class="item-img">
+                                    <img alt="Mobirise" src="images/ht1.jpg">
+                                </div>
+                                <div class="item-content">
+                                    <p class="card-name mbr-fonts-style display-5">
+                                        Himanshu Tated
+                                    </p>
+                                    <p class="card-role mbr-fonts-style display-7">
+                                        Hardware Engineer
+                                    </p>
+                                    <div class="social-wrapper">
+                                        <div class="social-wrap">
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-facebook"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-youtube"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                                                </a>
+                                            </div>
+                                            <div class="soc-item">
+                                                <a href="#">
+                                                    <span class="mbr-iconfont socicon socicon-instagram"></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="article05 devicem5 cid-u14CKePu2z" data-bs-version="5.1" id="article05-9">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Your device in safe hands
+                    </h2>
+                </div>
+            </div>
+            <div class="col-12 col-lg-8">
+                <div class="content-wrapper">
+                    <div class="text-wrap">
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Dive into a sea of genres, from soulful jazz to pulsating electronic beats, curated to suit
+                            every mood and occasion. The app's sleek design ensures seamless navigation, allowing you to
+                            effortlessly explore new releases, curated playlists, and your favorite tracks with just a
+                            few taps. App goes beyond conventional music streaming apps with its unique
+                            personalized recommendation engine. Powered by AI, it learns your musical preferences over
+                            time, offering curated playlists tailored to your taste, introducing you to hidden gems you
+                            might have missed.
+                        </p>
+                    </div>
+                    <div class="icons-wrapper">
+                        <div class="icons-wrap">
+                            <!-- Apple -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Apple" src="images/svg/img_1.png">
+                                </span>
+                            </div>
+                            <!-- Samsung -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Samsung" src="images/svg/img_2.png">
+                                </span>
+                            </div>
+                            <!-- Xiaomi -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Xiaomi" src="images/svg/img_3.png">
+                                </span>
+                            </div>
+                            <!-- Huawei -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Huawei" src="images/svg/img_4.png">
+                                </span>
+                            </div>
+                            <!-- Vivo -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Vivo" src="images/svg/img_5.png">
+                                </span>
+                            </div>
+                            <!-- Oppo -->
+                            <div class="icon-wrapper">
+                                <span class="mbr-iconfont">
+                                    <img alt="Oppo" src="images/svg/img.png">
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4">
+            <div class="image-wrapper">
+                <div class="image-wrap">
+                    <img alt="Mobirise" src="images/image5.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+<section class="article06 devicem5 cid-u14CKCeiYf" data-bs-version="5.1" id="article06-a">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-6 card">
+                <div class="image-wrapper">
+                    <img alt="Mobirise" src="images/bg4.jpg">
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 card">
+                <div class="content-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Unlock the full potential
+                    </h2>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Here's a guide on where and how to download these essential tools to enhance your digital
+                        experience. The primary and most secure source for mobile applications is the official app store
+                        corresponding to your device's operating system. For iOS devices, head to the Apple App Store,
+                        and for Android devices, visit the Google Play Store. These platforms rigorously vet apps for
+                        security and functionality.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="gallery01 devicem5 cid-u14CPAv5gu mbr-parallax-background" data-bs-version="5.1" id="gallery01-e">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                    <div class="image-wrap">
+                        <img alt="Mobirise" src="images/image4.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="video01 devicem5 cid-u14CM51tKb" data-bs-version="5.1" id="video01-b">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        Check out our production
+                    </h2>
+                </div>
+                <div class="box">
+                    <div class="mbr-media show-modal align-center" data-modal=".modalWindow">
+                        <img alt="Mobirise" src="images/image14.jpg">
+                        <div class="icon-wrap">
+                            <span class="mbr-iconfont mobi-mbri-play mobi-mbri"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="modalWindow" style="display: none">
+            <div class="modalWindow-container">
+                <div class="modalWindow-video-container">
+                    <div class="modalWindow-video">
+                        <iframe allowfullscreen="1"
+                                data-src="https://www.youtube.com/watch?v=-BSQlJxCDcI&amp;loop=1&amp;autoplay=1"
+                                frameborder="0" height="100%"
+                                width="100%"></iframe>
+                    </div>
+                    <a class="close" data-bs-dismiss="modal" data-dismiss="modal" role="button">
+                        <span aria-hidden="true" class="mbr-iconfont mobi-mbri-close mobi-mbri closeModal"></span>
+                        <span class="sr-only visually-hidden visually-hidden">Close</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="pricing01 devicem5 cid-u14CR9Gi77" data-bs-version="5.1" id="pricing01-f">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 item">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        We are experienced work lovers focused on quality
+                    </h2>
+                </div>
+            </div>
+            <div class="item features-image col-12 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img alt="Mobirise" src="images/svg/img_6.png">
+                    </div>
+                    <div class="item-content">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Water ingress damage
+                        </h4>
+                        <p class="card-desc mbr-fonts-style display-7">
+                            We provide high-quality water damage repair services that prolong your gadgets’ life and
+                            improve their performance.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-image col-12 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img alt="Mobirise" src="images/svg/img_7.png">
+                    </div>
+                    <div class="item-content">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Poor battery life
+                        </h4>
+                        <p class="card-desc mbr-fonts-style display-7">
+                            As devices age, their batteries degrade. With a new or restored battery, you can enjoy many
+                            more hours of charge.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-image col-12 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img alt="Mobirise" src="images/svg/img_8.png">
+                    </div>
+                    <div class="item-content">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Cracked screens
+                        </h4>
+                        <p class="card-desc mbr-fonts-style display-7">
+                            Being a highly popular repair service, we make sure to deliver the top-notch level of screen
+                            repair for your phone.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-image col-12 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img alt="Mobirise" src="images/svg/img_9.png">
+                    </div>
+                    <div class="item-content">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Bent chassis
+                        </h4>
+                        <p class="card-desc mbr-fonts-style display-7">
+                            Our team of experts can easily straighten your current chassis or replace it with a factory
+                            original.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-image col-12 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img alt="Mobirise" src="images/svg/img_10.png">
+                    </div>
+                    <div class="item-content">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Broken mic & speakers
+                        </h4>
+                        <p class="card-desc mbr-fonts-style display-7">
+                            Various issues can cause broken speakers, but we can replace them easily so you can enjoy
+                            using your phone again.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features02 devicem5 cid-u14CFQMKM3" data-bs-version="5.1" id="features02-4">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="content-wrapper">
+                    <div class="desc-wrapper">
+                        <p class="mbr-desc mbr-fonts-style display-4">
+                            MODELS
+                        </p>
+                    </div>
+                    <div class="title-wrapper">
+                        <div class="title-wrap">
+                            <img alt="Mobirise" src="images/image20.jpg">
+                            <h2 class="mbr-section-title mbr-fonts-style display-2">
+                                Characteristics
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="items-wrapper">
+                    <div class="item features-without-image">
+                        <div class="item-wrapper">
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    Android
+                                </h4>
+                                <div class="list-wrapper">
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Display
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            High-resolution display
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Design
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Sleek and slim design
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Performance
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Powerful processor and ample RAM
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Camera System
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Sophisticated camera system,
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Battery Life
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Optimized battery management system
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item features-without-image">
+                        <div class="item-wrapper">
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    Iphone
+                                </h4>
+                                <div class="list-wrapper">
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Display
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Large and immersive display
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Design
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Robust and durable construction
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Performance
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Powered by a high-performance chipset
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Camera System
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Versatile camera setup
+                                        </p>
+                                    </div>
+                                    <div class="item-wrap">
+                                        <h5 class="item-title mbr-fonts-style display-7">
+                                            Battery Life
+                                        </h5>
+                                        <p class="item-desc mbr-fonts-style display-7">
+                                            Efficient battery management
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="form01 devicem5 cid-u14CMyD7ff" data-bs-version="5.1" id="form01-c">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                    <img alt="Mobirise" src="images/bg6.jpg">
+                </div>
+            </div>
+            <div class="col-12 col-lg-5">
+                <div class="content-wrapper">
+                    <div class="desc-wrapper">
+                        <p class="mbr-desc mbr-fonts-style display-4">
+                            CONTACTS
+                        </p>
+                    </div>
+                    <div class="mbr-form" data-form-type="formoid">
+                        <form action="https://mobirise.eu/" class="mbr-form form-with-styler"
+                              data-form-title="Form Name"
+                              method="POST"><input data-form-email="true" name="email" type="hidden"
+                                                   value="hXN9mFtp4mv2TiR3uWk9PGjXeodh8ZIGjisXmj6/YMLejqtWUaYDa/2v4Ys8a/JM9siElyf50qg//yhUzAgx8u9hirxWTp6FKd87nirsXWG4CQn030yftLiX9MUGNNn0.LwfaIlKZCdc9tBKxBx82rfe+1+/HgbVEb8vvMFt9OL5ffSHcex9crDg0kL354OWIcqVYaBeltUA/JRw/IPX+w4bF5Zg+n/PR4Qss4QMhK82GpveITEoFtaPl06xF+nUn">
+                            <div class="row">
+                                <div class="alert alert-success col-12" data-form-alert="" hidden="hidden">Thanks for
+                                    filling out the form!
+                                </div>
+                                <div class="alert alert-danger col-12" data-form-alert-danger="" hidden="hidden">
+                                    Oops...! some problem!
+                                </div>
+                            </div>
+                            <div class="dragArea row">
+                                <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <h5 class="mbr-section-title mbr-fonts-style display-5"> Get
+                                        useful information now! </h5>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <p class="mbr-text mbr-fonts-style display-7">
+                                        If you can't find a
+                                        direct contact within the app or on the website, try reaching out via email.
+                                    </p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3 mb-3" data-for="name">
+                                    <input class="form-control display-4" data-form-field="name" id="name-form01-c"
+                                           name="name"
+                                           placeholder="Your Name" type="text" value="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3 mb-3" data-for="email">
+                                    <input class="form-control display-4" data-form-field="email" id="email-form01-c"
+                                           name="email"
+                                           placeholder="Your Email" type="email" value="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group mb-3" data-for="textarea">
+                                    <textarea class="form-control display-7" data-form-field="textarea"
+                                              id="textarea-form01-c"
+                                              name="textarea" placeholder="Your message"></textarea>
+                                </div>
+                                <div class="col mbr-section-btn">
+                                    <button class="btn btn-primary display-4" type="submit">
+                                        <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>
+                                        Send now
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="list01 devicem5 cid-u14G4piVwj" data-bs-version="5.1" id="list01-g">
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-2">
+                        FAQ
+                    </h2>
+                </div>
+                <div aria-multiselectable="true" class="panel-group accordionStyles accordion"
+                     id="bootstrap-accordion_13"
+                     role="tablist">
+                    <div class="card">
+                        <div class="card-header" id="headingOne" role="tab">
+                            <a aria-controls="collapse1" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse1_13"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        01
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        How do I transfer data from my old mobile device to a new one?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingOne" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_13"
+                             data-parent="#accordion" id="collapse1_13"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    Most mobile devices offer built-in tools for data transfer. For example, on Android,
+                                    you can use Google Drive, Samsung Smart Switch, or other manufacturer-specific apps.
+                                    On iOS, the iCloud or iTunes backup and restore process is commonly used. Ensure
+                                    both devices are connected to Wi-Fi, follow the prompts, and your data will be
+                                    seamlessly transferred.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingTwo" role="tab">
+                            <a aria-controls="collapse2" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse2_13"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        02
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        What are the best practices for extending the battery life of my mobile device?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingTwo" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_13"
+                             data-parent="#accordion" id="collapse2_13"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    To extend battery life, consider adjusting screen brightness, enabling power-saving
+                                    mode, and closing background apps. Turn off unnecessary features like location
+                                    services and push notifications. Regularly update your device's software, as newer
+                                    versions often include optimizations for better battery efficiency.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingThree" role="tab">
+                            <a aria-controls="collapse3" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse3_13"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        03
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        How can I increase the storage capacity on my mobile device?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingThree" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_13"
+                             data-parent="#accordion" id="collapse3_13"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    If your device supports external storage (e.g., microSD cards), you can add more
+                                    space that way. Alternatively, consider offloading photos and videos to cloud
+                                    storage services or deleting unused apps. Transfer large files to a computer or an
+                                    external hard drive to free up space.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFour" role="tab">
+                            <a aria-controls="collapse4" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse4_13"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        04
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        What should I do if my mobile device is running slow?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingFour" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_13"
+                             data-parent="#accordion" id="collapse4_13"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    Clearing cache, closing background apps, and restarting your device can help improve
+                                    performance. Ensure your software is up-to-date, uninstall unnecessary apps, and
+                                    consider a factory reset if the slowness persists, but be sure to back up your data
+                                    first.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFive" role="tab">
+                            <a aria-controls="collapse5" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse5_13"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        05
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        How do I set up and use biometric authentication on my device?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingFive" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_13"
+                             data-parent="#accordion" id="collapse5_13"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    n your device settings, locate the security or biometrics section. Follow the
+                                    prompts to register your fingerprint or facial features. Ensure you have a secure
+                                    backup method (PIN, password) in case biometrics fail. This adds an extra layer of
+                                    security to your device.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingSix" role="tab">
+                            <a aria-controls="collapse6" aria-expanded="false" class="panel-title collapsed"
+                               data-bs-toggle="collapse" data-core="" data-toggle="collapse" href="#collapse5_14"
+                               role="button">
+                                <div class="panel-wrap">
+                                    <p class="panel-number mbr-fonts-style display-4">
+                                        06
+                                    </p>
+                                    <h4 class="panel-title-edit mbr-fonts-style display-5">
+                                        How long will it take to fix my phone?
+                                    </h4>
+                                </div>
+                                <div class="icon-wrapper">
+                                    <span class="sign mbr-iconfont mobi-mbri-plus mobi-mbri"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div aria-labelledby="headingSix" class="panel-collapse noScroll collapse"
+                             data-bs-parent="#bootstrap-accordion_14"
+                             data-parent="#accordion" id="collapse5_14"
+                             role="tabpanel">
+                            <div class="panel-body">
+                                <div class="panel-padding"></div>
+                                <p class="mbr-fonts-style panel-text display-7">
+                                    Turnaround time is 2-7 days after receiving the phone depending on job and
+                                    availability of parts. Most jobs are completed within 2-3 days. This does depend on
+                                    the fault, make of phone, and parts required.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="map-container">
+    <iframe allowfullscreen=""
+        height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.6713774285863!2d78.8528793!3d19.8101265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd2e525574bf19d%3A0x83f6143b41d5d718!2sADINATH%20MOBILES-The%20Mobile%20Repairing%20centre%20(Best%20MOBILE%20SHOP)!5e1!3m2!1sen!2sin!4v1730960062831!5m2!1sen!2sin"
+        style="border:0;"
+        width="600"></iframe>
+</div>
+<style>
+    /* Responsive map container */
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* Aspect ratio for 16:9 */
+    overflow: hidden;
+    background: #f1f1f1;
+    border-radius: 8px;
+}
+
+/* Make the iframe fill the container */
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+</style>
+
+<section class="footer01 devicem5 cid-u14CMXhmO4" data-bs-version="5.1" id="footer01-d" once="footers">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-7">
+                <div class="title-wrapper">
+                    <h2 class="mbr-section-title mbr-fonts-style display-1">Mobile<br> Device</h2>
+                    <!-- Contact Details -->
+                    <div class="contact-details">
+                        <p class="mbr-fonts-style display-7">
+                            <strong>Phone:</strong> +123 456 7890<br>
+                            <strong>Email:</strong> email@example.com<br>
+                            <strong>WhatsApp:</strong> +123 456 7890
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-5">
+                <div class="nav-wrapper">
+                    <ul class="list mbr-fonts-style display-7">
+                        <li class="item-wrap">Home</li>
+                        <li class="item-wrap">Products</li>
+                        <li class="item-wrap">About</li>
+                        <li class="item-wrap">Events</li>
+                        <li class="item-wrap">Contacts</li>
+                    </ul>
+                </div>
+                <!-- Social Media Icons -->
+                <div class="social-icons-wrapper">
+                    <div class="social-icons">
+                        <div class="social-item">
+                            <a href="#">
+                                <span class="mbr-iconfont socicon socicon-facebook"></span>
+                            </a>
+                        </div>
+                        <div class="social-item">
+                            <a href="#">
+                                <span class="mbr-iconfont socicon socicon-youtube"></span>
+                            </a>
+                        </div>
+                        <div class="social-item">
+                            <a href="#">
+                                <span class="mbr-iconfont socicon socicon-whatsapp"></span>
+                            </a>
+                        </div>
+
+                        <div class="social-item">
+                            <a href="#">
+                                <span class="mbr-iconfont socicon socicon-instagram"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-12">
+                <div class="border-wrap"></div>
+                <p class="mbr-copy mbr-fonts-style display-4">
+                    © Copyright 2024 KUNAL D - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+    /* Contact Details Styling */
+.contact-details {
+    margin-top: 10px;
+}
+
+.contact-details p {
+    color: #333;
+    line-height: 1.6;
+}
+.social-icons-wrapper {
+    display: flex;
+
+    padding: 10px 0;
+}
+
+.social-icons {
+    display: flex;
+    gap: 30px;
+}
+
+.social-item span {
+    font-size: 36px; /* Increase the icon size */
+    transition: transform 0.3s;
+}
+
+.social-item span:hover {
+    transform: scale(1.2); /* Add hover effect to make icons bigger */
+}
+
+
+</style>
+
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/jarallax.js"></script>
+<script src="js/smooth-scroll.js"></script>
+<script src="js/index.js"></script>
+<script src="js/navbar-dropdown.js"></script>
+<script src="js/mbr-switch-arrow.js"></script>
+<script src="js/script.js"></script>
+<script src="js/formoid.min.js"></script>
+
+
+</body>
+</html>
