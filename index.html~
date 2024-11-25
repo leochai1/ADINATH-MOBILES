@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="images/logo.png" rel="shortcut icon" type="image/x-icon">
+    <link href="images/fevicon.png" rel="shortcut icon" type="image/x-icon">
 
-    <title>KUNAL DURUDKAR</title>
+    <title>ADINATH MOBILES</title>
     <link href="css/mobirise2.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-grid.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col text-center">
-                <p style="font-size: 20px; padding-top: 10px">Contact us at +91 7020550988 | kunaldurudkar@gmail.com</p>
+                <p style="font-size: 20px; padding-top: 10px">Contact us at +91 7020550988 | himanshutated@gmail.com</p>
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@
         <div class="menu_box container-fluid">
             <div class="navbar-brand d-flex align-items-center">
                 <span class="navbar-logo">
-                    <a href="../index.html">
+                    <a href="#">
                         <img alt="Mobirise" class="logo-img" src="images/logo1.png">
                     </a>
                 </span>
@@ -165,7 +165,19 @@ window.addEventListener("scroll", () => {
             <div class="col-12 col-lg-4 card">
                 <div class="image-wrapper">
                     <div class="image-wrap">
-                        <img alt="Mobirise" src="images/ban1.png">
+                        <img alt="Mobirise" src="images/ban1.png" class="popup-image">
+                        <style>
+                            /* Initial state for the image */
+                            .popup-image {
+                              transition: transform 0.3s ease, opacity 0.3s ease;
+                            }
+
+                            /* Pop-up effect on hover */
+                            .popup-image:hover {
+                              transform: scale(3.1); /* Makes the image 10% bigger */
+                              opacity: 0.9; /* Slight transparency for a smooth effect */
+                            }
+                        </style>
                     </div>
                 </div>
             </div>
@@ -195,8 +207,8 @@ window.addEventListener("scroll", () => {
                         ADINATH Mobile Repair Service has been repairing mobile devices for over 3 years.
                     </p>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Accidents happen, and it’s our job to fix them when it comes to damaging your mobile device.
-                        It’s never been easier to render your device useless after dropping it. Our trained technicians
+                        Accidents happen, and it's our job to fix them when it comes to damaging your mobile device.
+                        It's never been easier to render your device useless after dropping it. Our trained technicians
                         will diagnose and repair your device within 24 hours.
                     </p>
                 </div>
@@ -336,22 +348,22 @@ window.addEventListener("scroll", () => {
                                     <div class="social-wrapper">
                                         <div class="social-wrap">
                                             <div class="soc-item">
-                                                <a href="#">
+                                                <a href="https://www.facebook.com/share/HjvdyRmEkwN1arZe/?mibextid=qi2Omg">
                                                     <span class="mbr-iconfont socicon socicon-facebook"></span>
                                                 </a>
                                             </div>
                                             <div class="soc-item">
-                                                <a href="#">
+                                                <a href="https://www.instagram.com/mukutban_brand_store?igsh=ZXhoMWhtNmdsYWxt">
                                                     <span class="mbr-iconfont socicon socicon-youtube"></span>
                                                 </a>
                                             </div>
                                             <div class="soc-item">
-                                                <a href="#">
-                                                    <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                                                <a href="https://www.instagram.com/mukutban_brand_store?igsh=ZXhoMWhtNmdsYWxt">
+                                                    <span class="mbr-iconfont socicon socicon-twitter"></span>
                                                 </a>
                                             </div>
                                             <div class="soc-item">
-                                                <a href="#">
+                                                <a href="https://www.instagram.com/mukutban_brand_store?igsh=ZXhoMWhtNmdsYWxt">
                                                     <span class="mbr-iconfont socicon socicon-instagram"></span>
                                                 </a>
                                             </div>
@@ -1092,9 +1104,9 @@ window.addEventListener("scroll", () => {
                     <!-- Contact Details -->
                     <div class="contact-details">
                         <p class="mbr-fonts-style display-7">
-                            <strong>Phone:</strong> +123 456 7890<br>
-                            <strong>Email:</strong> email@example.com<br>
-                            <strong>WhatsApp:</strong> +123 456 7890
+                            <strong>Phone:</strong> +91 7020550988<br>
+                            <strong>Email:</strong> himanshutated@gmail.com<br>
+                            <strong>WhatsApp:</strong> 7020550988
                         </p>
                     </div>
                 </div>
@@ -1113,23 +1125,23 @@ window.addEventListener("scroll", () => {
                 <div class="social-icons-wrapper">
                     <div class="social-icons">
                         <div class="social-item">
-                            <a href="#">
+                            <a href="https://www.facebook.com/share/HjvdyRmEkwN1arZe/?mibextid=qi2Omg">
                                 <span class="mbr-iconfont socicon socicon-facebook"></span>
                             </a>
                         </div>
                         <div class="social-item">
-                            <a href="#">
+                            <a href="https://www.instagram.com/mukutban_brand_store?igsh=ZXhoMWhtNmdsYWxt">
                                 <span class="mbr-iconfont socicon socicon-youtube"></span>
                             </a>
                         </div>
                         <div class="social-item">
-                            <a href="#">
+                            <a href="https://wa.me/917020550988">
                                 <span class="mbr-iconfont socicon socicon-whatsapp"></span>
                             </a>
                         </div>
 
                         <div class="social-item">
-                            <a href="#">
+                            <a href="https://www.instagram.com/mukutban_brand_store?igsh=ZXhoMWhtNmdsYWxt">
                                 <span class="mbr-iconfont socicon socicon-instagram"></span>
                             </a>
                         </div>
